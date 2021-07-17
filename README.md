@@ -1,5 +1,5 @@
 # Synthetic Calibration
-Can we synthesize calibration data, instead of actually *taking* calibration data?
+Can we *synthesize* calibration data, instead of actually *taking* calibration data?
 
 ## Authors:
 - **David W. Hogg** *(Flatiron)*
